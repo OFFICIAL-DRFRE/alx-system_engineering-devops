@@ -1,0 +1,2 @@
+#!/bin/bash
+echo hello,world"[1;5D[1;5D[1;5D[D[D[D[D[D[D[D[D[D"[F[D[B[F[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1;3D[1;5D[1;5D[1;5D[D[D[D[D[D[D[DH[2~el[2~lo world\n"[1;5D[1;5D[1;5D[1;5D[1;5D[1;5D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dprintf "Hello World\n"
