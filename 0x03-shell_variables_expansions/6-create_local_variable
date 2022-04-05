@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $BEoiT="School"
+echo "$BEST=School"
