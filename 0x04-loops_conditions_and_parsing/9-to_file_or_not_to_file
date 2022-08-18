@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 #
-# Print information about the holbertonschool file
+# Print information about the bestschool file
 
-file='holbertonschool'
+file='bestschool'
 
 if [[ -e ${file} ]]
 then
